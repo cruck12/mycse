@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    int a, b, c, d;
+    a = 29;
+    b = 31;
+    c = (a + b) * 37;
+    a = 23;
+    d = (a + b) * 41;
+    return 0;
+}
